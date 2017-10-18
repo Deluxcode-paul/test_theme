@@ -1,2 +1,1 @@
-# test_theme
-Files by test theme
+# Custom WordPress Theme for review
